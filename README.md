@@ -79,6 +79,6 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 >NOTE: This has been integrated into the [Video Tools Project](https://github.com/jasonhand/video_tools)
 
 ## YNAB Balances
-[YNAB Balances](https://github.com/jasonhand/ynab_balances_to_csv)
+[Code](https://github.com/jasonhand/ynab_balances_to_csv)
 
 
