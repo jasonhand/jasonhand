@@ -62,9 +62,9 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 ## Mandolin Classifieds
 [Code](https://github.com/jasonhand/mandolin-classifieds)
 
-![Mandolin Classifieds](https://github.com/jasonhand/mandolin-classifieds/raw/main/images/screenshot.png)
-
 [Live Demo](https://jasonhand.github.io/mandolin-classifieds/)
+
+![Mandolin Classifieds](https://github.com/jasonhand/mandolin-classifieds/raw/main/images/screenshot.png)
 
 ## Command Line ChatGPT Interface
 [Code](https://github.com/jasonhand/cli-gpt-python-chatbot)
