@@ -1,19 +1,18 @@
 # Projects
 
+## Generative Debrief
+![](https://github.com/jasonhand/generative-debrief/raw/main/images/screenshot.png)
+[Generative Debrief](https://github.com/jasonhand/generative-debrief)
+
 ## Doggo Explorer
 ![](https://github.com/jasonhand/doggo-explorer/raw/main/images/doggo-explorer.png)
+[Doggo Explorer](https://github.com/jasonhand/doggo-explorer)
 
-<!--
-**jasonhand/jasonhand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Vinyl Viewer
+![](https://github.com/jasonhand/vinyl-viewer/raw/main/images/vinyl-viewer2.png)
+[Vinyl Viewer](https://github.com/jasonhand/vinyl-viewer)
 
-Here are some ideas to get you started:
+## Ignite Karaoke
+![](https://github.com/jasonhand/js-ignite-karaoke/raw/main/img/Ignite_Karaoke.png)
+[Ignite Karaoke](https://github.com/jasonhand/js-ignite-karaoke)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
