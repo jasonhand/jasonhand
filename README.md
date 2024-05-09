@@ -59,7 +59,7 @@
 ## Video Splitter
 [Code](https://github.com/jasonhand/VideoSplitter)
 
-[Video Splitter](https://github.com/jasonhand/VideoSplitter/raw/master/documentation/clipped_video.png)
+![Video Splitter](https://github.com/jasonhand/VideoSplitter/raw/master/documentation/clipped_video.png)
 
 >NOTE: This has been integrated into the [Video Tools Project](https://github.com/jasonhand/video_tools)
 
