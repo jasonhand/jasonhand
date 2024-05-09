@@ -7,6 +7,7 @@
 
 ## Doggo Explorer
 [Code](https://github.com/jasonhand/doggo-explorer)
+
 [Live Demo](https://jasonhand.github.io/doggo-explorer/)
 
 ![](https://github.com/jasonhand/doggo-explorer/raw/main/images/doggo-explorer.png)
