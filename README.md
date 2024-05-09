@@ -47,7 +47,7 @@
 ## Mandolin Classifieds
 [Code](https://github.com/jasonhand/mandolin-classifieds)
 
-![](https://github.com/jasonhand/mandolin-classifieds/raw/main/images/screenshot.png
+![Mandolin Classifieds](https://github.com/jasonhand/mandolin-classifieds/raw/main/images/screenshot.png)
 
 [Live Demo](https://jasonhand.github.io/mandolin-classifieds/)
 
