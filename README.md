@@ -27,6 +27,8 @@
 ## Ignite Karaoke
 [Code](https://github.com/jasonhand/js-ignite-karaoke)
 
+[Live Demo](https://jasonhand.github.io/js-ignite-karaoke/)
+
 ![](https://github.com/jasonhand/js-ignite-karaoke/raw/main/img/Ignite_Karaoke.png)
 
 ## PsPsPs
@@ -44,6 +46,10 @@
 
 ## Mandolin Classifieds
 [Code](https://github.com/jasonhand/mandolin-classifieds)
+
+![](https://github.com/jasonhand/mandolin-classifieds/raw/main/images/screenshot.png
+
+[Live Demo](https://jasonhand.github.io/mandolin-classifieds/)
 
 ## Command Line ChatGPT Interface
 [Code](https://github.com/jasonhand/cli-gpt-python-chatbot)
