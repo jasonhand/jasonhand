@@ -7,6 +7,7 @@
 ## Doggo Explorer
 ![](https://github.com/jasonhand/doggo-explorer/raw/main/images/doggo-explorer.png)
 [Doggo Explorer](https://github.com/jasonhand/doggo-explorer)
+[Live Demo](https://jasonhand.github.io/doggo-explorer/)
 
 ## Video Tools
 ![](https://github.com/jasonhand/video_tools/raw/main/tutorial/tutorial1.png)
@@ -15,6 +16,7 @@
 ## Vinyl Viewer
 ![](https://github.com/jasonhand/vinyl-viewer/raw/main/images/vinyl-viewer2.png)
 [Vinyl Viewer](https://github.com/jasonhand/vinyl-viewer)
+[Live Demo](https://jasonhand.github.io/vinyl-viewer/)
 
 ## Ignite Karaoke
 ![](https://github.com/jasonhand/js-ignite-karaoke/raw/main/img/Ignite_Karaoke.png)
