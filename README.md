@@ -4,7 +4,7 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 ## What's What
 1. [Generative Debrief](https://github.com/jasonhand/jasonhand/blob/main/README.md#generative-debrief) - An app written to demonstrate using OpenAI with Azure Logic Apps and Datadog for a webinar taking place on May 14th, 2024
 2. [Doggo Explorer](https://github.com/jasonhand/jasonhand#doggo-explorer) - An app written to demonstrate using Datadog's Real User Monitoring (RUM) as part of an on-stage demo during my presentation at Google Cloud Next '24
-3. [Video Tools](https://github.com/jasonhand/jasonhand?tab=readme-ov-file#video-tools - A command line app written to assist in video, audio, and transcription needs I've had while working on various projects at Datadog
+3. [Video Tools](https://github.com/jasonhand/jasonhand?tab=readme-ov-file#video-tools) - A command line app written to assist in video, audio, and transcription needs I've had while working on various projects at Datadog
 4. [Vinyl Viewer](https://github.com/jasonhand/jasonhand?tab=readme-ov-file#vinyl-viewer) - An app written to visualize my vinyl record collection including Spotify integrations to listen to clips from the the record
 5. [Ignite Karaoke](https://github.com/jasonhand/jasonhand?tab=readme-ov-file#ignite-karaoke) - An app written to play "Ignite Karaoke" with the Datadog Advocacy team during one of our off-site meetings
 6. [PsPsPs](https://github.com/jasonhand/jasonhand?tab=readme-ov-file#pspsps) - An app written to view cats and dogs while I searched for a new kitten. It uses the Petfinder API
