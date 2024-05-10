@@ -49,7 +49,7 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 ## PsPsPs
 [Code](https://github.com/jasonhand/pspsps)
 
-![](https://github.com/jasonhand/pspsps/raw/main/images/PsPsPs.png.png)
+![](https://github.com/jasonhand/pspsps/raw/main/images/PsPsPs.png)
 
 >NOTE: Requires the [PsPsPs Proxy Project](https://github.com/jasonhand/psps-proxy)
 
