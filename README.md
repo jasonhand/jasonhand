@@ -2,6 +2,26 @@
 Hey there! Thanks for dropping by my Github page. Below you'll find a collection of the recent projects I've been working on and have been able to make publicly available. I have a few more in the works but they aren't quite ready to share. Many of these projects have been used in a variety of presentations and webinars for Datadog. Some are just for fun and personal experimentation. 
 
 ## What's What
+
+Here's the information presented in a markdown table format with four columns as requested:
+
+| Project Name             | Code  | Live Demo | Description                                                                                                                                                                                                                   |
+|--------------------------|-------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Generative Debrief       | -     | -         | An app written to demonstrate using OpenAI with Azure Logic Apps and Datadog for a webinar taking place on May 14th, 2024.                                                                                                     |
+| Doggo Explorer           | -     | -         | An app written to demonstrate using Datadog's Real User Monitoring (RUM) as part of an on-stage demo during my presentation at Google Cloud Next '24.                                                                         |
+| Video Tools              | -     | -         | A command line app written to assist in video, audio, and transcription needs I've had while working on various projects at Datadog.                                                                                          |
+| Vinyl Viewer             | -     | -         | An app written to visualize my vinyl record collection including Spotify integrations to listen to clips from the record.                                                                                                     |
+| Ignite Karaoke           | -     | -         | An app written to play "Ignite Karaoke" with the Datadog Advocacy team during one of our off-site meetings.                                                                                                                   |
+| PsPsPs                   | -     | -         | An app written to view cats and dogs while I searched for a new kitten. It uses the Petfinder API.                                                                                                                           |
+| Generative AI Notebooks  | -     | -         | A collection of Jupyter (or Google Collaboratory) notebooks to demonstrate various generative AI use cases using a variety of Google's Large Language Models used in a webinar with Google.                                   |
+| Spotify Dogged           | -     | -         | A command line app written to retrieve listening data from Spotify to create your own personal "Spotify Wrapped", while demonstrating how to send custom logs to Datadog.                                                     |
+| Mandolin Classified      | -     | -         | An app written to browse mandolin classified ads from Mandolin Cafe in a more visual appealing way while also randomizing the order in which they are displayed.                                                              |
+| Command Line ChatGPT     | -     | -         | A command line app written to communicate with OpenAI's ChatGPT.                                                                                                                                                              |
+| Video Splitter           | -     | -         | A command line app written to automatically create short-form videos in portrait orientation from random spots in a longer video for use as YouTube Shorts, TikToks, Instagram Stories, etc. This was added to "Video Tools". |
+| YNAB Balances            | -     | -         | A command line app to download "You Need A Budget" transactions to a CSV for local processing.                                                                                                                                 |
+
+Feel free to fill in the "Code" and "Live Demo" columns with links or details if available for each project.
+
 1. [Generative Debrief](https://github.com/jasonhand/jasonhand/blob/main/README.md#generative-debrief) - An app written to demonstrate using OpenAI with Azure Logic Apps and Datadog for a webinar taking place on May 14th, 2024
 2. [Doggo Explorer](https://github.com/jasonhand/jasonhand#doggo-explorer) - An app written to demonstrate using Datadog's Real User Monitoring (RUM) as part of an on-stage demo during my presentation at Google Cloud Next '24
 3. [Video Tools](https://github.com/jasonhand/jasonhand?tab=readme-ov-file#video-tools) - A command line app written to assist in video, audio, and transcription needs I've had while working on various projects at Datadog
