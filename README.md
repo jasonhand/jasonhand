@@ -3,8 +3,6 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 ## What's What
 
-Here's the information presented in a markdown table format with four columns as requested:
-
 | Project Name             | Code  | Live Demo | Description                                                                                                                                                                                                                   |
 |--------------------------|-------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Generative Debrief**       | [Code](https://github.com/jasonhand/generative-debrief)     | -         | An app written to demonstrate using OpenAI with Azure Logic Apps and Datadog for a webinar taking place on May 14th, 2024.                                                                                                     |
