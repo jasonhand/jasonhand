@@ -49,11 +49,11 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 8. **[Crop - Crop videos segments](https://github.com/jasonhand/video_tools/blob/main/services/clip/clip_README.md)**: automates the process of cropping videos to a portrait orientation, focusing on the center of the video.
 
-9. **🔍 [Key Words](https://github.com/jasonhand/video_tools/blob/main/services/services/key_words/key_words_README.md)**: Analyze a text file, filtering out common "stop words" and additional uninteresting words to identify and count the most meaningful words.
+9. **🔍 [Key Words](https://github.com/jasonhand/video_tools/blob/main/services/key_words/key_words_README.md)**: Analyze a text file, filtering out common "stop words" and additional uninteresting words to identify and count the most meaningful words.
 
 10. **🎨 [Make-gif - GIF Conversion Utility](https://github.com/jasonhand/video_tools/blob/main/services/make_gif/make_gif_README.md)**: Converts videos into high-quality GIFs, using a custom color palette to maintain visual fidelity.
 
-11. **[Montage - Concactenate Multiple Videos](https://github.com/jasonhand/video_tools/blob/main/services/montage_README.md)**: Create a video montage by clipping random sections from each video in a specified directory and merging them into a new video of a predetermined length. 
+11. **[Montage - Concactenate Multiple Videos](https://github.com/jasonhand/video_tools/blob/main/services/montage/montage_README.md)**: Create a video montage by clipping random sections from each video in a specified directory and merging them into a new video of a predetermined length. 
 
 12. **[.Mov to .Mp4 Converter](https://github.com/jasonhand/video_tools/blob/main/services/Mov_to_Mp4/mov_to_mp4_README.md)**: converts video files from `.MOV` format to `.MP4` format, maintaining the original file's name but changing its extension.
 
@@ -63,7 +63,7 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 15. **📌 [Splitter - Video Clip Processor](https://github.com/jasonhand/video_tools/blob/main/services/splitter/splitter_README.md)**: Generates multiple clips from a single video, adding consistent graphical overlays to each snippet.
 
-16. **🖼 [Stacked - Portrait Stacked](https://github.com/jasonhand/video_tools/services/blob/main/stacked/stacked_README.md)**: Combines speaker footage and slide content into a single portrait video, enhancing video presentations.
+16. **🖼 [Stacked - Portrait Stacked](https://github.com/jasonhand/video_tools/blob/main/services/stacked/stacked_README.md)**: Combines speaker footage and slide content into a single portrait video, enhancing video presentations.
 
 17. **📝 [Transcribe SRT - Generates (SRT) Transcription from Mp3](https://github.com/jasonhand/video_tools/blob/main/services/transcribe/transcribeSRT_README.md)**: Transcribes audio into written text with timestamps using OpenAI's Whisper model, ideal for generating accurate subtitles.
 
