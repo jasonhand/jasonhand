@@ -25,7 +25,7 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 ## Doggo Explorer
 
-![](https://github.com/jasonhand/doggo-explorer/raw/main/images/doggo-explorer.png)
+![](https://github.com/jasonhand/doggo-explorer/raw/main/images/doggo-explorer_thumb.png)
 
 ## Video Tools (20 in total)
 
