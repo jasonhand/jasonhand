@@ -29,7 +29,7 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 ## Video Tools (20 in total)
 
-![](https://github.com/jasonhand/video_tools/raw/main/tutorial/tutorial1.png)
+![](https://github.com/jasonhand/video_tools/raw/main/tutorial/tutorial1_thumb.png)
 
 ### Tool descriptions
 
@@ -75,15 +75,15 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 ## Vinyl Viewer
 
-![](https://github.com/jasonhand/vinyl-viewer/raw/main/images/vinyl-viewer2.png)
+![](https://github.com/jasonhand/vinyl-viewer/raw/main/images/vinyl-viewer2_thumb.png)
 
 ## Ignite Karaoke
 
-![](https://github.com/jasonhand/js-ignite-karaoke/raw/main/img/Ignite_Karaoke.png)
+![](https://github.com/jasonhand/js-ignite-karaoke/raw/main/img/Ignite_Karaoke_thumb.png)
 
 ## PsPsPs
 
-![](https://github.com/jasonhand/pspsps/raw/main/images/PsPsPs.png)
+![](https://github.com/jasonhand/pspsps/raw/main/images/PsPsPs_thumb.png)
 
 >NOTE: Requires the [PsPsPs Proxy Project](https://github.com/jasonhand/psps-proxy)
 
@@ -91,19 +91,19 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 ## Spotify Dogged
 
-![](https://github.com/jasonhand/spotify_dogged/raw/main/img/screenshot_2.png)
+![](https://github.com/jasonhand/spotify_dogged/raw/main/img/screenshot_2_thumb.png)
 
 ## Mandolin Classifieds
 
-![Mandolin Classifieds](https://github.com/jasonhand/mandolin-classifieds/raw/main/images/screenshot.png)
+![Mandolin Classifieds](https://github.com/jasonhand/mandolin-classifieds/raw/main/images/screenshot_thumb.png)
 
 ## Command Line ChatGPT Interface
 
-![CLI-GPT](https://github.com/jasonhand/cli-gpt-python-chatbot/raw/main/images/screenshot-terminal.png)
+![CLI-GPT](https://github.com/jasonhand/cli-gpt-python-chatbot/raw/main/images/screenshot-terminal_thumb.png)
 
 ## Video Splitter
 
-![Video Splitter](https://github.com/jasonhand/VideoSplitter/raw/master/documentation/clipped_video.png)
+![Video Splitter](https://github.com/jasonhand/VideoSplitter/raw/master/documentation/clipped_video_thumb.png)
 
 >NOTE: This has been integrated into the [Video Tools Project](https://github.com/jasonhand/video_tools)
 
