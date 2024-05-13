@@ -1,8 +1,6 @@
 # Projects
 Hey there! Thanks for dropping by my Github page. Below you'll find a collection of the recent projects I've been working on and have been able to make publicly available. I have a few more in the works but they aren't quite ready to share. Many of these projects have been used in a variety of presentations and webinars for Datadog. Some are just for fun and personal experimentation. 
 
-## What's What
-
 | Project Name             | Code  | Live Demo | Description                                                                                                                                                                                                                   |
 |--------------------------|-------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Generative Debrief**       | [Code](https://github.com/jasonhand/generative-debrief)     | -         | An app written to demonstrate using OpenAI with Azure Logic Apps and Datadog for a webinar taking place on May 14th, 2024.                                                                                                     |
