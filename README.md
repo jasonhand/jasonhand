@@ -87,15 +87,15 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 ## Generative AI Notebooks
 
-![](https://github.com/jasonhand/notebooks/raw/main/images/screenshot_thumbnail.png)
+![](https://github.com/jasonhand/notebooks/blob/main/images/screenshot_thumbnail1.png)
 
 **Notebooks:** 
 
-- [Grocery Store Receipt Analysis](https://github.com/jasonhand/notebooks/raw/main/grocery-receipt-analysis.ipynb)
-- [NASA Short Story](https://github.com/jasonhand/notebooks/raw/main/nasa-short-stories.ipynb)
-- [Market Summary](https://github.com/jasonhand/notebooks/raw/main/market-summary.ipynb)
-- [Restaurant Reviews](https://github.com/jasonhand/notebooks/raw/main/restaurant-reviews.ipynb)
-- [Datadog Custom Logs & Metrics](https://github.com/jasonhand/notebooks/raw/main/datadog-custom-logs.ipynb)
+- [Grocery Store Receipt Analysis](https://github.com/jasonhand/notebooks/blob/main/grocery-receipt-analysis.ipynb)
+- [NASA Short Story](https://github.com/jasonhand/notebooks/blob/main/nasa-short-stories.ipynb)
+- [Market Summary](https://github.com/jasonhand/notebooks/blob/main/market-summary.ipynb)
+- [Restaurant Reviews](https://github.com/jasonhand/notebooks/blob/main/restaurant-reviews.ipynb)
+- [Datadog Custom Logs & Metrics](https://github.com/jasonhand/notebooks/blob/main/datadog-custom-logs.ipynb)
 
 ## Spotify Dogged
 
