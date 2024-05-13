@@ -35,9 +35,9 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 1. **🚀 [2xSpeed - Video Speed Doubling](https://github.com/jasonhand/video_tools/blob/main/services/2xSpeed/2xSpeed_README.md)**: Accelerates the playback speed of video files, perfect for creating time-lapse effects or shortening content duration.
 
-2. **🎵 [Apple Audio to MP3 Converter](https://github.com/jasonhand/video_tools//blob/main/services/apple-to-mp3/convert_m4a_to_mp3_README.md)**: converts M4A audio files to MP3 format using FFmpeg.
+2. **🎵 [Apple Audio to MP3 Converter](https://github.com/jasonhand/video_tools/blob/main/services/apple-to-mp3/convert_m4a_to_mp3_README.md)**: converts M4A audio files to MP3 format using FFmpeg.
 
-3. **🔲 [Black_bars - Black Bar Removal](https://github.com/jasonhand/video_tools//blob/main//blob/main/services/black_bars/black_bars_README.md)**: Efficiently removes black bars from videos, resizing and cropping to fit a specified resolution.
+3. **🔲 [Black_bars - Black Bar Removal](https://github.com/jasonhand/video_tools/blob/main/blob/main/services/black_bars/black_bars_README.md)**: Efficiently removes black bars from videos, resizing and cropping to fit a specified resolution.
 
 4. **🖼️ [Burn Logo - Logo Overlay Utility](https://github.com/jasonhand/video_tools/blob/main/services/burn_logo/burn_logo_README.md)**: Adds logos or watermarks to videos by overlaying images, with customizable positioning and sizing.
 
