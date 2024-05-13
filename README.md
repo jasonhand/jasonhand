@@ -16,22 +16,6 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 | **Video Splitter**           | [Code](https://github.com/jasonhand/VideoSplitter)     | -         | A command line app written to automatically create short-form videos in portrait orientation from random spots in a longer video for use as YouTube Shorts, TikToks, Instagram Stories, etc. This was added to "Video Tools". |
 | **YNAB Balances**            | [Code](https://github.com/jasonhand/ynab_balances_to_csv)     | -         | A command line app to download "You Need A Budget" transactions to a CSV for local processing.                                                                                                                                 |
 
-| Image | Description |
-|-------|-------------|
-| Generative Debrief
-![](https://github.com/jasonhand/generative-debrief/raw/main/images/screenshot.png) | Description 1 |
-| ![Image2](#) | Description 2 |
-| ![Image3](#) | Description 3 |
-| ![Image4](#) | Description 4 |
-| ![Image5](#) | Description 5 |
-| ![Image6](#) | Description 6 |
-| ![Image7](#) | Description 7 |
-| ![Image8](#) | Description 8 |
-| ![Image9](#) | Description 9 |
-| ![Image10](#) | Description 10 |
-
-
-
 ## Generative Debrief
 
 ![](https://github.com/jasonhand/generative-debrief/raw/main/images/screenshot.png)
