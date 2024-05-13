@@ -107,7 +107,6 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 >NOTE: This has been integrated into the [Video Tools Project](https://github.com/jasonhand/video_tools)
 
-## YNAB Balances
 
 
 
