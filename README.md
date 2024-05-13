@@ -91,11 +91,11 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 **Notebooks:** 
 
-- [Grocery Store Receipt Analysis](https://github.com/jasonhand/notebooks/blob/main/grocery-receipt-analysis.ipynb)
 - [NASA Short Story](https://github.com/jasonhand/notebooks/blob/main/nasa-short-stories.ipynb)
 - [Market Summary](https://github.com/jasonhand/notebooks/blob/main/market-summary.ipynb)
 - [Restaurant Reviews](https://github.com/jasonhand/notebooks/blob/main/restaurant-reviews.ipynb)
 - [Datadog Custom Logs & Metrics](https://github.com/jasonhand/notebooks/blob/main/datadog-custom-logs.ipynb)
+- [Grocery Store Receipt Analysis](https://github.com/jasonhand/notebooks/blob/main/grocery-receipt-analysis.ipynb) (Not used in webinar)
 
 ## Spotify Dogged
 
