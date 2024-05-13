@@ -87,7 +87,7 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 ## Generative AI Notebooks
 
-![](https://github.com/jasonhand/notebooks/raw/main/images/screenshot_thumbnail.png)
+![](https://github.com/jasonhand/notebooks/raw/main/images/screenshot_thumbnail1.png)
 
 **Notebooks:** 
 
