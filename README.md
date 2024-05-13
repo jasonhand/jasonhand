@@ -89,6 +89,16 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 ## Generative AI Notebooks
 
+![](https://github.com/jasonhand/notebooks/raw/main/images/screenshot_thumbnail.png)
+
+**Notebooks:** 
+
+- [Grocery Store Receipt Analysis](https://github.com/jasonhand/notebooks/raw/main/grocery-receipt-analysis.ipynb)
+- [NASA Short Story](https://github.com/jasonhand/notebooks/raw/main/nasa-short-stories.ipynb)
+- [Market Summary](https://github.com/jasonhand/notebooks/raw/main/market-summary.ipynb)
+- [Restaurant Reviews](https://github.com/jasonhand/notebooks/raw/main/restaurant-reviews.ipynb)
+- [Datadog Custom Logs & Metrics](https://github.com/jasonhand/notebooks/raw/main/datadog-custom-logs.ipynb)
+
 ## Spotify Dogged
 
 ![](https://github.com/jasonhand/spotify_dogged/raw/main/img/screenshot_2_thumb.png)
