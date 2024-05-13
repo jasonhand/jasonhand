@@ -18,9 +18,7 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 | Image | Description |
 |-------|-------------|
-| Generative Debrief
-
-![](https://github.com/jasonhand/generative-debrief/raw/main/images/screenshot.png) | Description 1 |
+| Generative Debrief ![](https://github.com/jasonhand/generative-debrief/raw/main/images/screenshot.png) | Description 1 |
 | ![Image2](#) | Description 2 |
 | ![Image3](#) | Description 3 |
 | ![Image4](#) | Description 4 |
