@@ -1,8 +1,10 @@
 # Recent Presentations and Webinars
 
-- [Azure Observability Summit - 2024](https://github.com/jasonhand/Azure_Observability_Summit_2024)
-- [Charting the DevOps Multiverse](https://github.com/jasonhand/charting_the_devops_multiverse)
-- [Azure Cloud Migration Strategies](https://github.com/jasonhand/azure_cloud_migration_strategies)
+- [Moderninizing Systems Observability with AI and LLMs - AI Native DevCon - November 21st, 2024](https://github.com/jasonhand/ai_native_dev_con)
+- [Getting Started with OpenTelemetry in .NET - .NET Conf - November 17th, 2024](https://github.com/jasonhand/DotNetConf24)
+- [Azure Observability Summit - September 24th, 2024](https://github.com/jasonhand/Azure_Observability_Summit_2024)
+- [Charting the DevOps Multiverse - September 16th, 2024](https://github.com/jasonhand/charting_the_devops_multiverse)
+- [Azure Cloud Migration Strategies - August 15th, 2024](https://github.com/jasonhand/azure_cloud_migration_strategies)
 
 # Projects
 Hey there! Thanks for dropping by my Github page. Below you'll find a collection of the recent projects I've been working on and have been able to make publicly available. I have a few more in the works but they aren't quite ready to share. Many of these projects have been used in a variety of presentations and webinars for Datadog. Some are just for fun and personal experimentation.                                                                                                                                 |
