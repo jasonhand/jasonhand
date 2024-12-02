@@ -1,3 +1,7 @@
+# Bio and Headshot
+
+[All speaker information can be found here](https://github.com/jasonhand/speaker).
+
 # Recent Presentations and Webinars
 
 - [Moderninizing Systems Observability with AI and LLMs - AI Native DevCon - November 21st, 2024](https://github.com/jasonhand/ai_native_dev_con)
