@@ -2,13 +2,15 @@
 
 ## Primary Device
 
-![Macbook M1](images/Macbook.png)
+![Macbook M1](/images/Macbook.png)
 - Macbook M1 (14-inch, 2021) on a
 - Riser stand
 
 ## Video
 
+![Camera](/images/Camera.png)
 - Camera (Sony 5100 - used) with micro HDMI out to a
+![HDMI Converter](/images/HDMIConverter.png)
 - HDMI Converter with HDMI in (from the camera) and USB (to a USB dongle plugged directly into one of my Macbook's USB-C ports)
 - Camera stand that clamps to the desk behind my monitors, so it adjusts with the standing desk height.
 - Large Ring Light with weighted base
