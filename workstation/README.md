@@ -5,7 +5,7 @@
 ## Primary Device
 
 ![Macbook M1](/images/Macbook.png)
-- Macbook M1 (14-inch, 2021) on a
+- Macbook Pro w/ Apple M1 Max (14-inch, 2021) on a
 - [Laptop riser stand](https://www.amazon.com/gp/product/B07D74DT3B/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 
 ## Video
