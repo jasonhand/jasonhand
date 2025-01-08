@@ -13,8 +13,8 @@
 ![Camera](/images/Camera.png)
 - Camera (Sony 5100 - used) with micro HDMI out to a
 
-![HDMI Converter](/images/HDMIConverter.png)
-- HDMI Converter with HDMI in (from the camera) and USB (to a USB dongle plugged directly into one of my Macbook's USB-C ports)
+![HDMI Converter](/images/HDMICapture.png)
+- HDMI Capture with HDMI in (from the camera) and USB (to a USB dongle plugged directly into one of my Macbook's USB-C ports)
 
 ![Camera Stand](/images/CameraStand.png)
 - Camera stand that clamps to the desk behind my monitors, so it adjusts with the standing desk height.
