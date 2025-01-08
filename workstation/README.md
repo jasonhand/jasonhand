@@ -1,6 +1,8 @@
 # My Workstation Setup
 
 ## Primary Device
+
+![Macbook M1](images/Macbook.png)
 - Macbook M1 (14-inch, 2021) on a
 - Riser stand
 
