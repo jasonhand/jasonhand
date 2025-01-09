@@ -4,6 +4,7 @@
 
 # Recent Presentations and Webinars
 
+- [Happening soon ... Monitoring Vertex AI w/ Gemini LLMs(Jan. 23rd, 2025](https://github.com/jasonhand/monitoring_vertex_ai_LLMs/blob/main/README.md)
 - [Moderninizing Systems Observability with AI and LLMs - AI Native DevCon - November 21st, 2024](https://github.com/jasonhand/ai_native_dev_con)
 - [Getting Started with OpenTelemetry in .NET - .NET Conf - November 17th, 2024](https://github.com/jasonhand/DotNetConf24)
 - [Azure Observability Summit - September 24th, 2024](https://github.com/jasonhand/Azure_Observability_Summit_2024)
