@@ -16,6 +16,8 @@
 ![HDMI Converter](/images/HDMICapture.png)
 - HDMI Capture with HDMI in (from the camera) and USB (to a USB dongle plugged directly into one of my Macbook's USB-C ports)
 
+- [Sony SELP1650 16-50mm OSS Lens: Sony E PZ 16-50mm f/3.5-5.6 OSS Lens](https://www.amazon.com/gp/product/B07T1MQMFF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
 ![Camera Stand](/images/CameraStand.png)
 - [Camera stand that clamps to the desk](https://www.amazon.com/gp/product/B09JYMVY72/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) behind my monitors, so it adjusts with the standing desk height.
 
