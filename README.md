@@ -1,8 +1,5 @@
 # Jason Hand - Developer Advocate & Technical Speaker
 
-[![GitHub followers](https://img.shields.io/github/followers/jasonhand?style=social)](https://github.com/jasonhand)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jasonhand?style=social)](https://twitter.com/jasonhand)
-
 > [View my speaker profile and bio](https://github.com/jasonhand/speaker)
 
 ## Recent Presentations & Webinars
