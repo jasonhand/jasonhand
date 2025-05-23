@@ -33,6 +33,8 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 
 | Project | Description | Links |
 |---------|-------------|-------|
+| **SeeYouThere** | An event management application for creating and sharing events with friends and colleagues | [Code](https://github.com/jasonhand/seeyouthere) |
+| **Lissajous-Demo** | Interactive visualization demonstrating Lissajous curves with customizable parameters | [Code](https://github.com/jasonhand/Lissajous-Demo) |
 | **Ignite Karaoke** | An app written to play "Ignite Karaoke" with the Datadog Advocacy team during one of our off-site meetings | [Code](https://github.com/jasonhand/js-ignite-karaoke) <br> [Live Demo](https://jasonhand.github.io/js-ignite-karaoke/) <br> ![](https://github.com/jasonhand/js-ignite-karaoke/raw/main/img/Ignite_Karaoke_thumb.png) |
 | **PsPsPs** | An app written to view cats and dogs while I searched for a new kitten. Uses the Petfinder API. <br> *NOTE: Requires the [PsPsPs Proxy Project](https://github.com/jasonhand/psps-proxy)* | [Code](https://github.com/jasonhand/pspsps) <br> ![](https://github.com/jasonhand/pspsps/raw/main/images/PsPsPs_thumb.png) |
 | **Generative AI Notebooks** | A collection of Jupyter (or Google Collaboratory) notebooks to demonstrate various generative AI use cases | [Code](https://github.com/jasonhand/notebooks) <br> ![](https://github.com/jasonhand/notebooks/raw/main/images/screenshot_thumbnail1.png) |
