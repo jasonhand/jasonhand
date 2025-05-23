@@ -23,7 +23,6 @@ Hey there! Thanks for dropping by my Github page. Below you'll find a collection
 | Project | Description | Links |
 |---------|-------------|-------|
 | **AI Tools Experiments** | Collection of AI related tools and experiments for testing and development | [Code](https://github.com/jasonhand/ai-tools-experiments) |
-| **Datadog Logs and Metrics Streamer** | Demo application that streams logs and metrics to Datadog's API endpoints to view as a Dashboard | [Code](https://github.com/jasonhand/Datadog_Logs_and_Metrics_Streamer) |
 | **Generative Debrief** | An app written to demonstrate using OpenAI with Azure Logic Apps and Datadog for a webinar | [Code](https://github.com/jasonhand/generative-debrief) <br> ![](https://github.com/jasonhand/generative-debrief/raw/main/images/screenshot.png) |
 | **Doggo Explorer** | An app written to demonstrate using Datadog's Real User Monitoring (RUM) as part of an on-stage demo during my presentation at Google Cloud Next '24 | [Code](https://github.com/jasonhand/doggo-explorer) <br> [Live Demo](https://jasonhand.github.io/doggo-explorer/) <br> ![](https://github.com/jasonhand/doggo-explorer/raw/main/images/doggo-explorer_thumb.png) |
 | **Video Tools** | A command line app written to assist in video, audio, and transcription needs with 20 different tools | [Code](https://github.com/jasonhand/video_tools) <br> ![](https://github.com/jasonhand/video_tools/blob/main/tutorial/tutorial1.png) |
