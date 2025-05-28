@@ -6,6 +6,7 @@
 
 | Date | Event | Topic | Resources |
 |------|-------|-------|-----------|
+| May 16, 2025 | Microsoft Build 2025 | Cloud Migration Unlocked | [Materials](https://github.com/jasonhand/ms_build_migration_unlocked) |
 | Mar 8, 2025 | SCaLE 22x | Modernizing Systems Observability with AI and LLMs (45min) | [Materials](https://github.com/jasonhand/scale22x) |
 | Jan 23, 2025 | Webinar | Monitoring Vertex AI w/ Gemini LLMs | [Materials](https://github.com/jasonhand/monitoring_vertex_ai_LLMs) |
 | Nov 21, 2024 | AI Native DevCon | Modernizing Systems Observability with AI and LLMs (25min) | [Materials](https://github.com/jasonhand/ai_native_dev_con) |
