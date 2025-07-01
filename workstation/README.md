@@ -1,5 +1,9 @@
 # My Workstation Setup
 
+## 📊 Monitoring
+
+Get free monitoring for this project with [Datadog](https://www.datadoghq.com/dg/monitor/free-trial-b/?utm_source=jhand_demo)
+
 ![Full Setup](/images/Full_Setup.png)
 
 ## Primary Device

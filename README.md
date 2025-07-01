@@ -1,8 +1,16 @@
 # Jason Hand - Developer Advocate & Technical Speaker
 
+## 📊 Monitoring
+
+Get free monitoring for this project with [Datadog](https://www.datadoghq.com/dg/monitor/free-trial-b/?utm_source=jhand_demo)
+
 > [View my speaker profile and bio](https://github.com/jasonhand/speaker)
 
-## Recent Presentations & Webinars
+## 👋 Welcome
+
+Hey there! Thanks for dropping by my GitHub page. I'm Jason Hand, a Developer Advocate and Technical Speaker passionate about observability, AI, and building practical tools that solve real problems. Below you'll find a comprehensive collection of my public projects, experiments, and resources.
+
+## 🎤 Recent Presentations & Webinars
 
 | Date | Event | Topic | Resources |
 |------|-------|-------|-----------|
@@ -14,74 +22,151 @@
 | Sep 16, 2024 | Conference | Charting the DevOps Multiverse | [Materials](https://github.com/jasonhand/charting_the_devops_multiverse) |
 | Aug 15, 2024 | Webinar | Azure Cloud Migration Strategies | [Materials](https://github.com/jasonhand/azure_cloud_migration_strategies) |
 
-## Projects
+## 🚀 Featured Projects
 
-Hey there! Thanks for dropping by my Github page. Below you'll find a collection of the recent projects I've been working on and have been able to make publicly available. I have a few more in the works but they aren't quite ready to share. Many of these projects have been used in a variety of presentations and webinars for Datadog. Some are just for fun and personal experimentation.
-
-### Featured Projects
+### 🤖 AI & Machine Learning
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **AI Tools Experiments** | Collection of AI related tools and experiments for testing and development | [Code](https://github.com/jasonhand/ai-tools-experiments) |
-| **Generative Debrief** | An app written to demonstrate using OpenAI with Azure Logic Apps and Datadog for a webinar | [Code](https://github.com/jasonhand/generative-debrief) <br> ![](https://github.com/jasonhand/generative-debrief/raw/main/images/screenshot.png) |
-| **Doggo Explorer** | An app written to demonstrate using Datadog's Real User Monitoring (RUM) as part of an on-stage demo during my presentation at Google Cloud Next '24 | [Code](https://github.com/jasonhand/doggo-explorer) <br> [Live Demo](https://jasonhand.github.io/doggo-explorer/) <br> ![](https://github.com/jasonhand/doggo-explorer/raw/main/images/doggo-explorer_thumb.png) |
-| **Video Tools** | A command line app written to assist in video, audio, and transcription needs with 20 different tools | [Code](https://github.com/jasonhand/video_tools) <br> ![](https://github.com/jasonhand/video_tools/blob/main/tutorial/tutorial1.png) |
-| **Vinyl Viewer** | An app written to visualize my vinyl record collection including Spotify integrations to listen to clips from the record | [Code](https://github.com/jasonhand/vinyl-viewer) <br> [Live Demo](https://jasonhand.github.io/vinyl-viewer/) <br> ![](https://github.com/jasonhand/vinyl-viewer/raw/main/images/vinyl-viewer2_thumb.png) |
+| **AI Tools Experiments** | Comprehensive collection of AI tools, experiments, and learning resources with live demos | [Code](https://github.com/jasonhand/ai-tools-experiments) • [Live Demo](https://jasonhand.github.io/ai-tools-experiments/) |
+| **Generative AI Notebooks** | Jupyter notebooks demonstrating various generative AI use cases including NASA stories, market analysis, and restaurant reviews | [Code](https://github.com/jasonhand/notebooks) |
+| **Local Transcription** | Self-hosted audio transcription tool using Whisper for privacy-focused transcription needs | [Code](https://github.com/jasonhand/local_transcription) |
+| **Self-Hosted AI Starter Kit** | Complete Docker setup for running AI tools locally with n8n automation workflows | [Code](https://github.com/jasonhand/self-hosted-ai-starter-kit) |
 
-### Additional Projects
+### 🎵 Creative & Visual Applications
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **SeeYouThere** | An event management application for creating and sharing events with friends and colleagues | [Code](https://github.com/jasonhand/seeyouthere) |
-| **Lissajous-Demo** | Interactive visualization demonstrating Lissajous curves with customizable parameters | [Code](https://github.com/jasonhand/Lissajous-Demo) |
-| **Ignite Karaoke** | An app written to play "Ignite Karaoke" with the Datadog Advocacy team during one of our off-site meetings | [Code](https://github.com/jasonhand/js-ignite-karaoke) <br> [Live Demo](https://jasonhand.github.io/js-ignite-karaoke/) <br> ![](https://github.com/jasonhand/js-ignite-karaoke/raw/main/img/Ignite_Karaoke_thumb.png) |
-| **PsPsPs** | An app written to view cats and dogs while I searched for a new kitten. Uses the Petfinder API. <br> *NOTE: Requires the [PsPsPs Proxy Project](https://github.com/jasonhand/psps-proxy)* | [Code](https://github.com/jasonhand/pspsps) <br> ![](https://github.com/jasonhand/pspsps/raw/main/images/PsPsPs_thumb.png) |
-| **Generative AI Notebooks** | A collection of Jupyter (or Google Collaboratory) notebooks to demonstrate various generative AI use cases | [Code](https://github.com/jasonhand/notebooks) <br> ![](https://github.com/jasonhand/notebooks/raw/main/images/screenshot_thumbnail1.png) |
-| **Spotify Dogged** | A command line app written to retrieve listening data from Spotify to create your own personal "Spotify Wrapped", while demonstrating how to send custom logs to Datadog | [Code](https://github.com/jasonhand/spotify_dogged) <br> ![](https://github.com/jasonhand/spotify_dogged/raw/main/img/screenshot_2_thumb.png) |
-| **Mandolin Classifieds** | An app written to browse mandolin classified ads from Mandolin Cafe in a more visual appealing way | [Code](https://github.com/jasonhand/mandolin-classifieds) <br> [Live Demo](https://jasonhand.github.io/mandolin-classifieds/) <br> ![](https://github.com/jasonhand/mandolin-classifieds/raw/main/images/screenshot_thumb.png) |
-| **Command Line ChatGPT** | A command line app written to communicate with OpenAI's ChatGPT | [Code](https://github.com/jasonhand/cli-gpt-python-chatbot) <br> ![](https://github.com/jasonhand/cli-gpt-python-chatbot/raw/main/images/screenshot-terminal_thumb.png) |
-| **Video Splitter** | A command line app written to automatically create short-form videos <br> *NOTE: This has been integrated into the [Video Tools Project](https://github.com/jasonhand/video_tools)* | [Code](https://github.com/jasonhand/VideoSplitter) <br> ![](https://github.com/jasonhand/VideoSplitter/raw/master/documentation/clipped_video_thumb.png) |
-| **YNAB Balances** | A command line app to download "You Need A Budget" transactions to a CSV for local processing | [Code](https://github.com/jasonhand/ynab_balances_to_csv) |
+| **Vinyl Viewer** | Interactive vinyl record collection browser with Spotify integration for listening to clips | [Code](https://github.com/jasonhand/vinyl-viewer) • [Live Demo](https://jasonhand.github.io/vinyl-viewer/) |
+| **Acoustic Guitar Visualizer** | Real-time audio visualization for acoustic guitar with interactive frequency analysis | [Code](https://github.com/jasonhand/acoustic-guitar-visualizer) |
+| **Ambient Weather Art** | Artistic weather visualization combining real-time weather data with generative art | [Code](https://github.com/jasonhand/ambient_weather_art) |
+| **Lissajous Curves Demo** | Interactive mathematical visualization demonstrating Lissajous curves with customizable parameters | [Code](https://github.com/jasonhand/Lissajous-Demo) |
+| **Pick-n-Pattern** | Interactive bluegrass guitar pattern generator and learning tool | [Code](https://github.com/jasonhand/pick-n-pattern) |
 
-## Video Tools Collection
+### 🏁 Racing & Telemetry Tools
 
-My [Video Tools project](https://github.com/jasonhand/video_tools) includes 20 different utilities for video/audio processing:
+| Project | Description | Links |
+|---------|-------------|-------|
+| **iRacing Telemetry Dashboard** | Advanced telemetry analysis dashboard for iRacing with performance insights and data visualization | [Code](https://github.com/jasonhand/iRacing-lap-telemetry-1) |
+| **Racing Telemetry** | Real-time racing data analysis tool with lap time comparisons and performance metrics | [Code](https://github.com/jasonhand/racing-telemetry) |
+| **iRacing Data Analytics** | Comprehensive data analysis platform for iRacing performance tracking | [Code](https://github.com/jasonhand/iRacing-Data) |
+
+### 🎯 Productivity & Utility Apps
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **SeeYouThere** | Modern event management and scheduling application for coordinating group activities | [Code](https://github.com/jasonhand/seeyouthere) |
+| **Color-Coded Budget Buddy** | Visual budget tracking application with intuitive color-coded expense categorization | [Code](https://github.com/jasonhand/color-coded-budget-buddy) |
+| **Smart Pad Dashboard** | Personal dashboard for managing tasks, notes, and productivity metrics | [Code](https://github.com/jasonhand/smart-pad-dashboard) |
+| **Markdown Viewer** | Feature-rich markdown editor and viewer with live preview and presentation mode | [Code](https://github.com/jasonhand/markdown_viewer) |
+| **Number Cruncher** | PDF financial data extraction and analysis tool for wage and income processing | [Code](https://github.com/jasonhand/number-cruncher) |
+
+### 🎮 Interactive & Demo Applications
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **JavaScript Ignite Karaoke** | Interactive presentation game for rapid-fire talks with random image prompts | [Code](https://github.com/jasonhand/js-ignite-karaoke) • [Live Demo](https://jasonhand.github.io/js-ignite-karaoke/) |
+| **PsPsPs Pet Finder** | Adorable pet discovery app using the Petfinder API with modern UI design | [Code](https://github.com/jasonhand/pspsps) |
+| **Vintage Videos** | Retro-styled video collection browser with nostalgic design elements | [Code](https://github.com/jasonhand/vintage-videos) |
+| **Video Conference Simple** | Lightweight video conferencing solution with minimal setup requirements | [Code](https://github.com/jasonhand/video-conf-simple) |
+
+### 🛠️ Development Tools & Experiments
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Claude Code Experiments** | Collection of experiments and demos showcasing Claude AI capabilities | [Code](https://github.com/jasonhand/ClaudeCodeExperiments) |
+| **Ambient Weather Dashboard** | Real-time weather monitoring dashboard with customizable widgets and alerts | [Code](https://github.com/jasonhand/ambient-weather) |
+| **Spr1nklr** | Modern web application with React and TypeScript for data visualization | [Code](https://github.com/jasonhand/spr1nklr) |
+| **Narluga** | Experimental React application exploring modern web development patterns | [Code](https://github.com/jasonhand/narluga) |
+
+### 📚 Educational & Workshop Content
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **GenAI Astro Workshop** | Comprehensive workshop materials for building modern websites with Astro and AI | [Code](https://github.com/jasonhand/GenAI-Astro-Workshop) |
+| **Presentation Slides** | Modern slide decks built with Slidev for technical presentations | [Code](https://github.com/jasonhand/NewSlides) |
+| **Personal Website** | My personal website built with modern web technologies | [Code](https://github.com/jasonhand/personalweb) |
+| **DevOps Certification** | Resources and materials for DevOps certification preparation | [Code](https://github.com/jasonhand/devops_certified) |
+
+### 📝 Documentation & Resources
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **The DevRel Odyssey** | Comprehensive guide and storytelling framework for Developer Relations professionals | [Code](https://github.com/jasonhand/odyssey) |
+| **Studio Setup** | Complete documentation of my content creation studio setup and equipment | [Code](https://github.com/jasonhand/studio) |
+| **Family Tree Web App** | Interactive family tree visualization with modern web technologies | [Code](https://github.com/jasonhand/family_tree_web_app) |
+
+## 🎬 Video Tools Collection
+
+My comprehensive [Video Tools project](https://github.com/jasonhand/video_tools) includes 20 specialized utilities for video/audio processing:
+
+<details>
+<summary>Click to expand full tool list</summary>
 
 | Tool | Description | Documentation |
 |------|-------------|---------------|
 | **2xSpeed** | Accelerates the playback speed of video files | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/2xSpeed/2xSpeed_README.md) |
 | **Apple Audio to MP3** | Converts M4A audio files to MP3 format | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/apple-to-mp3/convert_m4a_to_mp3_README.md) |
-| **Black_bars** | Efficiently removes black bars from videos | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/black_bars/black_bars_README.md) |
-| **Burn Logo** | Adds logos or watermarks to videos | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/burn_logo/burn_logo_README.md) |
-| **Captions** | Burns subtitles from SRT files into videos | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/captions/captions_README.md) |
-| **Chunk** | Chunks large text files into smaller sections | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/chunk/chunk_README.md) |
-| **Clip** | Trims the start of videos and enhances quality | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/clip/clip_README.md) |
-| **Crop** | Automates cropping videos to portrait orientation | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/clip/clip_README.md) |
-| **Key Words** | Analyzes text files to identify meaningful words | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/key_words/key_words_README.md) |
-| **Make-gif** | Converts videos into high-quality GIFs | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/make_gif/make_gif_README.md) |
-| **Montage** | Creates video montages from multiple clips | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/montage/montage_README.md) |
-| **Mov to Mp4** | Converts MOV files to MP4 format | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/Mov_to_Mp4/mov_to_mp4_README.md) |
-| **Mp3** | Extracts audio from video files as MP3 | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/mp3/mp3_README.md) |
-| **Shorten** | Creates new videos from selected portions | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/shorten/shorten_README.md) |
-| **Splitter** | Generates multiple clips from a single video | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/splitter/splitter_README.md) |
-| **Stacked** | Combines speaker footage and slide content | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/stacked/stacked_README.md) |
-| **Transcribe SRT** | Generates SRT transcription from Mp3 | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/transcribe/transcribeSRT_README.md) |
-| **Transcribe TXT** | Generates TXT transcription from Mp3 | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/transcribe/transcribeTXT_README.md) |
-| **Trimmer** | Trims videos to specific durations | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/trimmer/trimmer_README.md) |
-| **Upscale** | Upscales videos to higher resolutions | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/upscale/upscale_README.md) |
+| **Black Bars Removal** | Efficiently removes black bars from videos | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/black_bars/black_bars_README.md) |
+| **Logo Burn** | Adds logos or watermarks to videos | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/burn_logo/burn_logo_README.md) |
+| **Caption Burn** | Burns subtitles from SRT files into videos | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/captions/captions_README.md) |
+| **Text Chunker** | Chunks large text files into smaller sections | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/chunk/chunk_README.md) |
+| **Video Clipper** | Trims the start of videos and enhances quality | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/clip/clip_README.md) |
+| **Video Cropper** | Automates cropping videos to portrait orientation | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/clip/clip_README.md) |
+| **Keyword Extractor** | Analyzes text files to identify meaningful words | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/key_words/key_words_README.md) |
+| **GIF Maker** | Converts videos into high-quality GIFs | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/make_gif/make_gif_README.md) |
+| **Video Montage** | Creates video montages from multiple clips | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/montage/montage_README.md) |
+| **MOV to MP4** | Converts MOV files to MP4 format | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/Mov_to_Mp4/mov_to_mp4_README.md) |
+| **Audio Extractor** | Extracts audio from video files as MP3 | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/mp3/mp3_README.md) |
+| **Video Shortener** | Creates new videos from selected portions | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/shorten/shorten_README.md) |
+| **Video Splitter** | Generates multiple clips from a single video | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/splitter/splitter_README.md) |
+| **Stacked Layout** | Combines speaker footage and slide content | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/stacked/stacked_README.md) |
+| **SRT Transcriber** | Generates SRT transcription from Mp3 | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/transcribe/transcribeSRT_README.md) |
+| **TXT Transcriber** | Generates TXT transcription from Mp3 | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/transcribe/transcribeTXT_README.md) |
+| **Video Trimmer** | Trims videos to specific durations | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/trimmer/trimmer_README.md) |
+| **Video Upscaler** | Upscales videos to higher resolutions | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/upscale/upscale_README.md) |
 
-## Generative AI Notebooks
+</details>
+
+## 🔬 Generative AI Notebooks
 
 My collection of Jupyter notebooks for various AI use cases:
 
 | Notebook | Description | Link |
 |----------|-------------|------|
-| NASA Short Story | Using AI to generate NASA-themed stories | [Notebook](https://github.com/jasonhand/notebooks/blob/main/nasa-short-stories.ipynb) |
+| NASA Short Stories | Using AI to generate NASA-themed stories | [Notebook](https://github.com/jasonhand/notebooks/blob/main/nasa-short-stories.ipynb) |
 | Market Summary | AI-powered financial market analysis | [Notebook](https://github.com/jasonhand/notebooks/blob/main/market-summary.ipynb) |
 | Restaurant Reviews | Processing and analyzing restaurant feedback | [Notebook](https://github.com/jasonhand/notebooks/blob/main/restaurant-reviews.ipynb) |
 | Datadog Custom Logs & Metrics | Working with Datadog logging and metrics | [Notebook](https://github.com/jasonhand/notebooks/blob/main/datadog-custom-logs.ipynb) |
-| Grocery Store Receipt Analysis | Analyzing grocery receipts with AI (not used in webinar) | [Notebook](https://github.com/jasonhand/notebooks/blob/main/grocery-receipt-analysis.ipynb) |
+| Grocery Store Receipt Analysis | Analyzing grocery receipts with AI | [Notebook](https://github.com/jasonhand/notebooks/blob/main/grocery-receipt-analysis.ipynb) |
 
-## My Workstation Setup
+## 🎸 Music & Audio Projects
 
-Curious about my tech? Check out all of the [equipment I use](workstation/README.md) for my work setup.
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Acoustic Guitar Visualizer** | Real-time frequency analysis and visualization for acoustic guitar | [Code](https://github.com/jasonhand/acoustic-guitar-visualizer) |
+| **Pick-n-Pattern** | Bluegrass guitar pattern generator and practice tool | [Code](https://github.com/jasonhand/pick-n-pattern) |
+| **Vinyl Viewer** | Digital vinyl collection with Spotify integration | [Code](https://github.com/jasonhand/vinyl-viewer) |
+
+## 🔧 My Workstation Setup
+
+Curious about my tech? Check out all of the [equipment I use](workstation/README.md) for my content creation and development setup.
+
+## 📊 Project Statistics
+
+- **Total Public Projects**: 40+
+- **Primary Languages**: TypeScript, Python, JavaScript, HTML/CSS
+- **Frameworks**: React, Astro, Vue, Next.js
+- **Focus Areas**: AI/ML, Web Development, Data Visualization, Audio/Video Processing
+- **Live Demos**: 15+ deployed applications
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jasonhand/)
+- 🐦 [Twitter](https://twitter.com/jasonhand)
+- 🎤 [Speaker Profile](https://github.com/jasonhand/speaker)
+- 📧 [Email](mailto:jason@jasonhand.com)
+
+---
+
+*"Building tools that solve real problems, one commit at a time."*
