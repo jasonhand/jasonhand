@@ -2,7 +2,7 @@
 
 ## 📊 Monitoring
 
-Get free monitoring for this project with [Datadog](https://www.datadoghq.com/dg/monitor/free-trial-b/?utm_source=jhand_demo)
+[Try Datadog for free](https://www.datadoghq.com/dg/monitor/free-trial-b/?utm_source=jhand_demo)
 
 > [View my speaker profile and bio](https://github.com/jasonhand/speaker)
 
