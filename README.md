@@ -36,6 +36,7 @@ Hey there! Thanks for dropping by my GitHub page. I'm Jason Hand, a Developer Ad
 
 | Project | Description | Links |
 |---------|-------------|-------|
+| **Toroidal Fields** | Interactive visualization demonstrating wave interference patterns, cymatics, and the scientific principles of energy-to-matter transformation | [Code](https://github.com/jasonhand/toroidal_fields) • [Live Demo](https://jasonhand.github.io/toroidal_fields) |
 | **Vinyl Viewer** | Interactive vinyl record collection browser with Spotify integration for listening to clips | [Code](https://github.com/jasonhand/vinyl-viewer) • [Live Demo](https://jasonhand.github.io/vinyl-viewer/) |
 | **Ambient Weather Art** | Artistic weather visualization combining real-time weather data with generative art | [Code](https://github.com/jasonhand/ambient_weather_art) |
 | **Lissajous Curves Demo** | Interactive mathematical visualization demonstrating Lissajous curves with customizable parameters | [Code](https://github.com/jasonhand/Lissajous-Demo) |
