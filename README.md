@@ -31,26 +31,14 @@ Hey there! Thanks for dropping by my GitHub page. I'm Jason Hand, a Developer Ad
 |---------|-------------|-------|
 | **AI Tools Experiments** | Comprehensive collection of AI tools, experiments, and learning resources with live demos | [Code](https://github.com/jasonhand/ai-tools-experiments) • [Live Demo](https://jasonhand.github.io/ai-tools-experiments/) |
 | **Generative AI Notebooks** | Jupyter notebooks demonstrating various generative AI use cases including NASA stories, market analysis, and restaurant reviews | [Code](https://github.com/jasonhand/notebooks) |
-| **Local Transcription** | Self-hosted audio transcription tool using Whisper for privacy-focused transcription needs | [Code](https://github.com/jasonhand/local_transcription) |
-| **Self-Hosted AI Starter Kit** | Complete Docker setup for running AI tools locally with n8n automation workflows | [Code](https://github.com/jasonhand/self-hosted-ai-starter-kit) |
 
 ### 🎵 Creative & Visual Applications
 
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Vinyl Viewer** | Interactive vinyl record collection browser with Spotify integration for listening to clips | [Code](https://github.com/jasonhand/vinyl-viewer) • [Live Demo](https://jasonhand.github.io/vinyl-viewer/) |
-| **Acoustic Guitar Visualizer** | Real-time audio visualization for acoustic guitar with interactive frequency analysis | [Code](https://github.com/jasonhand/acoustic-guitar-visualizer) |
 | **Ambient Weather Art** | Artistic weather visualization combining real-time weather data with generative art | [Code](https://github.com/jasonhand/ambient_weather_art) |
 | **Lissajous Curves Demo** | Interactive mathematical visualization demonstrating Lissajous curves with customizable parameters | [Code](https://github.com/jasonhand/Lissajous-Demo) |
-| **Pick-n-Pattern** | Interactive bluegrass guitar pattern generator and learning tool | [Code](https://github.com/jasonhand/pick-n-pattern) |
-
-### 🏁 Racing & Telemetry Tools
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **iRacing Telemetry Dashboard** | Advanced telemetry analysis dashboard for iRacing with performance insights and data visualization | [Code](https://github.com/jasonhand/iRacing-lap-telemetry-1) |
-| **Racing Telemetry** | Real-time racing data analysis tool with lap time comparisons and performance metrics | [Code](https://github.com/jasonhand/racing-telemetry) |
-| **iRacing Data Analytics** | Comprehensive data analysis platform for iRacing performance tracking | [Code](https://github.com/jasonhand/iRacing-Data) |
 
 ### 🎯 Productivity & Utility Apps
 
@@ -60,7 +48,6 @@ Hey there! Thanks for dropping by my GitHub page. I'm Jason Hand, a Developer Ad
 | **Color-Coded Budget Buddy** | Visual budget tracking application with intuitive color-coded expense categorization | [Code](https://github.com/jasonhand/color-coded-budget-buddy) |
 | **Smart Pad Dashboard** | Personal dashboard for managing tasks, notes, and productivity metrics | [Code](https://github.com/jasonhand/smart-pad-dashboard) |
 | **Markdown Viewer** | Feature-rich markdown editor and viewer with live preview and presentation mode | [Code](https://github.com/jasonhand/markdown_viewer) |
-| **Number Cruncher** | PDF financial data extraction and analysis tool for wage and income processing | [Code](https://github.com/jasonhand/number-cruncher) |
 
 ### 🎮 Interactive & Demo Applications
 
@@ -69,23 +56,19 @@ Hey there! Thanks for dropping by my GitHub page. I'm Jason Hand, a Developer Ad
 | **JavaScript Ignite Karaoke** | Interactive presentation game for rapid-fire talks with random image prompts | [Code](https://github.com/jasonhand/js-ignite-karaoke) • [Live Demo](https://jasonhand.github.io/js-ignite-karaoke/) |
 | **PsPsPs Pet Finder** | Adorable pet discovery app using the Petfinder API with modern UI design | [Code](https://github.com/jasonhand/pspsps) |
 | **Vintage Videos** | Retro-styled video collection browser with nostalgic design elements | [Code](https://github.com/jasonhand/vintage-videos) |
-| **Video Conference Simple** | Lightweight video conferencing solution with minimal setup requirements | [Code](https://github.com/jasonhand/video-conf-simple) |
 
 ### 🛠️ Development Tools & Experiments
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Claude Code Experiments** | Collection of experiments and demos showcasing Claude AI capabilities | [Code](https://github.com/jasonhand/ClaudeCodeExperiments) |
 | **Ambient Weather Dashboard** | Real-time weather monitoring dashboard with customizable widgets and alerts | [Code](https://github.com/jasonhand/ambient-weather) |
 | **Spr1nklr** | Modern web application with React and TypeScript for data visualization | [Code](https://github.com/jasonhand/spr1nklr) |
-| **Narluga** | Experimental React application exploring modern web development patterns | [Code](https://github.com/jasonhand/narluga) |
 
 ### 📚 Educational & Workshop Content
 
 | Project | Description | Links |
 |---------|-------------|-------|
 | **GenAI Astro Workshop** | Comprehensive workshop materials for building modern websites with Astro and AI | [Code](https://github.com/jasonhand/GenAI-Astro-Workshop) |
-| **Presentation Slides** | Modern slide decks built with Slidev for technical presentations | [Code](https://github.com/jasonhand/NewSlides) |
 | **Personal Website** | My personal website built with modern web technologies | [Code](https://github.com/jasonhand/personalweb) |
 | **DevOps Certification** | Resources and materials for DevOps certification preparation | [Code](https://github.com/jasonhand/devops_certified) |
 
@@ -93,9 +76,7 @@ Hey there! Thanks for dropping by my GitHub page. I'm Jason Hand, a Developer Ad
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **The DevRel Odyssey** | Comprehensive guide and storytelling framework for Developer Relations professionals | [Code](https://github.com/jasonhand/odyssey) |
 | **Studio Setup** | Complete documentation of my content creation studio setup and equipment | [Code](https://github.com/jasonhand/studio) |
-| **Family Tree Web App** | Interactive family tree visualization with modern web technologies | [Code](https://github.com/jasonhand/family_tree_web_app) |
 
 ## 🎬 Video Tools Collection
 
@@ -141,25 +122,17 @@ My collection of Jupyter notebooks for various AI use cases:
 | Datadog Custom Logs & Metrics | Working with Datadog logging and metrics | [Notebook](https://github.com/jasonhand/notebooks/blob/main/datadog-custom-logs.ipynb) |
 | Grocery Store Receipt Analysis | Analyzing grocery receipts with AI | [Notebook](https://github.com/jasonhand/notebooks/blob/main/grocery-receipt-analysis.ipynb) |
 
-## 🎸 Music & Audio Projects
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Acoustic Guitar Visualizer** | Real-time frequency analysis and visualization for acoustic guitar | [Code](https://github.com/jasonhand/acoustic-guitar-visualizer) |
-| **Pick-n-Pattern** | Bluegrass guitar pattern generator and practice tool | [Code](https://github.com/jasonhand/pick-n-pattern) |
-| **Vinyl Viewer** | Digital vinyl collection with Spotify integration | [Code](https://github.com/jasonhand/vinyl-viewer) |
-
 ## 🔧 My Workstation Setup
 
 Curious about my tech? Check out all of the [equipment I use](workstation/README.md) for my content creation and development setup.
 
 ## 📊 Project Statistics
 
-- **Total Public Projects**: 40+
+- **Total Public Projects**: 25+
 - **Primary Languages**: TypeScript, Python, JavaScript, HTML/CSS
 - **Frameworks**: React, Astro, Vue, Next.js
-- **Focus Areas**: AI/ML, Web Development, Data Visualization, Audio/Video Processing
-- **Live Demos**: 15+ deployed applications
+- **Focus Areas**: AI/ML, Web Development, Data Visualization, Creative Applications
+- **Live Demos**: 10+ deployed applications
 
 ## 🤝 Let's Connect
 
