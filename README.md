@@ -1,10 +1,12 @@
 # Jason Hand - Developer Advocate & Technical Speaker
 
+[View my speaker profile and bio](https://github.com/jasonhand/speaker)
+[Visit my website](https://jasonhand.com)
+[All demos in this repo showcased here](https://jasonhand.com/demos)
+
 ## 📊 Monitoring
 
 [Try Datadog for free](https://www.datadoghq.com/dg/monitor/free-trial-b/?utm_source=jhand_demo)
-
-> [View my speaker profile and bio](https://github.com/jasonhand/speaker)
 
 ## 👋 Welcome
 
