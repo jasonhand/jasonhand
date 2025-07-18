@@ -1,7 +1,9 @@
 # Jason Hand - Developer Advocate & Technical Speaker
 
 [View my speaker profile and bio](https://github.com/jasonhand/speaker)
+
 [Visit my website](https://jasonhand.com)
+
 [All demos in this repo showcased here](https://jasonhand.com/demos)
 
 ## 📊 Monitoring
