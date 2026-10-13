@@ -1,143 +1,209 @@
 # Jason Hand - Developer Advocate & Technical Speaker
 
-[View my speaker profile and bio](https://github.com/jasonhand/speaker)
-
-[Visit my website](https://jasonhand.com)
-
-[All demos in this repo showcased here](https://jasonhand.com/demos)
-
-## 📊 Monitoring
-
-[Try Datadog for free](https://www.datadoghq.com/dg/monitor/free-trial-b/?utm_source=jhand_demo)
+[View my speaker profile and bio](https://github.com/jasonhand/speaker)  
+[Visit my website](https://jasonhand.com)  
+[Explore demos](https://jasonhand.com/demos)
 
 ## 👋 Welcome
 
-Hey there! Thanks for dropping by my GitHub page. I'm Jason Hand, a Developer Advocate and Technical Speaker passionate about observability, AI, and building practical tools that solve real problems. Below you'll find a comprehensive collection of my public projects, experiments, and resources.
+Hey there! I'm Jason Hand, a Developer Advocate and Technical Speaker focused on observability, AI, developer experience, and practical tools that help teams learn, build, and ship better software.
 
-## 🎤 Recent Presentations & Webinars
+This profile is a hub for my podcasts, conference work, experiments, demos, and assorted creative builds.
 
-| Date | Event | Topic | Resources |
-|------|-------|-------|-----------|
-| May 16, 2025 | Microsoft Build 2025 | Cloud Migration Unlocked | [Materials](https://github.com/jasonhand/ms_build_migration_unlocked) |
-| Mar 8, 2025 | SCaLE 22x | Modernizing Systems Observability with AI and LLMs (45min) | [Materials](https://github.com/jasonhand/scale22x) |
-| Jan 23, 2025 | Webinar | Monitoring Vertex AI w/ Gemini LLMs | [Materials](https://github.com/jasonhand/monitoring_vertex_ai_LLMs) |
-| Nov 21, 2024 | AI Native DevCon | Modernizing Systems Observability with AI and LLMs (25min) | [Materials](https://github.com/jasonhand/ai_native_dev_con) |
-| Nov 17, 2024 | .NET Conf | Getting Started with OpenTelemetry in .NET | [Materials](https://github.com/jasonhand/DotNetConf24) |
-| Sep 24, 2024 | Azure Observability Summit | Various Sessions | [Materials](https://github.com/jasonhand/Azure_Observability_Summit_2024) |
-| Sep 16, 2024 | Conference | Charting the DevOps Multiverse | [Materials](https://github.com/jasonhand/charting_the_devops_multiverse) |
-| Aug 15, 2024 | Webinar | Azure Cloud Migration Strategies | [Materials](https://github.com/jasonhand/azure_cloud_migration_strategies) |
+## 🎙️ AI Tools Lab (Podcast)
 
-## 🚀 Featured Projects
+**AI Tools Lab** is a podcast about the tools, workflows, experiments, and practical lessons emerging from the fast-moving AI ecosystem.
 
-### 🤖 AI & Machine Learning
+The show explores how developers, creators, and technical teams are using AI in real work: coding assistants, automation, prompt workflows, agents, observability for AI systems, creative tooling, and the changing shape of software development.
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **AI Tools Experiments** | Comprehensive collection of AI tools, experiments, and learning resources with live demos | [Code](https://github.com/jasonhand/ai-tools-experiments) • [Live Demo](https://jasonhand.github.io/ai-tools-experiments/) |
-| **Generative AI Notebooks** | Jupyter notebooks demonstrating various generative AI use cases including NASA stories, market analysis, and restaurant reviews | [Code](https://github.com/jasonhand/notebooks) |
+Topics often include:
 
-### 🎵 Creative & Visual Applications
+- AI tools for developers and technical creators
+- Prompting, agents, and workflow automation
+- Building with LLMs and multimodal models
+- Practical experiments, demos, and lessons learned
+- The intersection of AI, observability, and developer productivity
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Toroidal Fields** | Interactive visualization demonstrating wave interference patterns, cymatics, and the scientific principles of energy-to-matter transformation | [Code](https://github.com/jasonhand/toroidal_fields) • [Live Demo](https://jasonhand.github.io/toroidal_fields) |
-| **Vinyl Viewer** | Interactive vinyl record collection browser with Spotify integration for listening to clips | [Code](https://github.com/jasonhand/vinyl-viewer) • [Live Demo](https://jasonhand.github.io/vinyl-viewer/) |
-| **Ambient Weather Art** | Artistic weather visualization combining real-time weather data with generative art | [Code](https://github.com/jasonhand/ambient_weather_art) |
-| **Lissajous Curves Demo** | Interactive mathematical visualization demonstrating Lissajous curves with customizable parameters | [Code](https://github.com/jasonhand/Lissajous-Demo) |
 
-### 🎯 Productivity & Utility Apps
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **SeeYouThere** | Modern event management and scheduling application for coordinating group activities | [Code](https://github.com/jasonhand/seeyouthere) |
-| **Color-Coded Budget Buddy** | Visual budget tracking application with intuitive color-coded expense categorization | [Code](https://github.com/jasonhand/color-coded-budget-buddy) |
-| **Smart Pad Dashboard** | Personal dashboard for managing tasks, notes, and productivity metrics | [Code](https://github.com/jasonhand/smart-pad-dashboard) |
-| **Markdown Viewer** | Feature-rich markdown editor and viewer with live preview and presentation mode | [Code](https://github.com/jasonhand/markdown_viewer) |
+## 🐶 Datadog On Air (Podcast)
 
-### 🎮 Interactive & Demo Applications
+**Datadog On Air** is a podcast and video series focused on observability, modern infrastructure, cloud-native systems, DevOps, and the engineering practices behind reliable software.
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **JavaScript Ignite Karaoke** | Interactive presentation game for rapid-fire talks with random image prompts | [Code](https://github.com/jasonhand/js-ignite-karaoke) • [Live Demo](https://jasonhand.github.io/js-ignite-karaoke/) |
-| **PsPsPs Pet Finder** | Adorable pet discovery app using the Petfinder API with modern UI design | [Code](https://github.com/jasonhand/pspsps) |
-| **Vintage Videos** | Retro-styled video collection browser with nostalgic design elements | [Code](https://github.com/jasonhand/vintage-videos) |
+The show features conversations, demos, and technical discussions around topics such as:
 
-### 🛠️ Development Tools & Experiments
+- Observability and monitoring
+- Cloud infrastructure and platform engineering
+- OpenTelemetry, logs, metrics, traces, and profiling
+- Incident response and reliability engineering
+- Datadog product capabilities and real-world use cases
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Ambient Weather Dashboard** | Real-time weather monitoring dashboard with customizable widgets and alerts | [Code](https://github.com/jasonhand/ambient-weather) |
-| **Spr1nklr** | Modern web application with React and TypeScript for data visualization | [Code](https://github.com/jasonhand/spr1nklr) |
+[Try Datadog for free](https://www.datadoghq.com/dg/monitor/free-trial-b/?utm_source=jhand_demo)
 
-### 📚 Educational & Workshop Content
+## 💬 Community Pulse (Podcast)
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **GenAI Astro Workshop** | Comprehensive workshop materials for building modern websites with Astro and AI | [Code](https://github.com/jasonhand/GenAI-Astro-Workshop) |
-| **Personal Website** | My personal website built with modern web technologies | [Code](https://github.com/jasonhand/personalweb) |
-| **DevOps Certification** | Resources and materials for DevOps certification preparation | [Code](https://github.com/jasonhand/devops_certified) |
+**Community Pulse** is a podcast about developer relations, community building, technical advocacy, and the people-centered work behind developer ecosystems.
 
-### 📝 Documentation & Resources
+The show covers the craft and strategy of DevRel, including:
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Studio Setup** | Complete documentation of my content creation studio setup and equipment | [Code](https://github.com/jasonhand/studio) |
+- Developer communities and community programs
+- Technical advocacy and developer education
+- Events, content, livestreams, and field work
+- Measuring impact and building trust
+- The evolving role of DevRel in technical organizations
 
-## 🎬 Video Tools Collection
 
-My comprehensive [Video Tools project](https://github.com/jasonhand/video_tools) includes 20 specialized utilities for video/audio processing:
 
-<details>
-<summary>Click to expand full tool list</summary>
+## 🎤 Speaking & Conferences
 
-| Tool | Description | Documentation |
-|------|-------------|---------------|
-| **2xSpeed** | Accelerates the playback speed of video files | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/2xSpeed/2xSpeed_README.md) |
-| **Apple Audio to MP3** | Converts M4A audio files to MP3 format | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/apple-to-mp3/convert_m4a_to_mp3_README.md) |
-| **Black Bars Removal** | Efficiently removes black bars from videos | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/black_bars/black_bars_README.md) |
-| **Logo Burn** | Adds logos or watermarks to videos | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/burn_logo/burn_logo_README.md) |
-| **Caption Burn** | Burns subtitles from SRT files into videos | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/captions/captions_README.md) |
-| **Text Chunker** | Chunks large text files into smaller sections | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/chunk/chunk_README.md) |
-| **Video Clipper** | Trims the start of videos and enhances quality | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/clip/clip_README.md) |
-| **Video Cropper** | Automates cropping videos to portrait orientation | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/clip/clip_README.md) |
-| **Keyword Extractor** | Analyzes text files to identify meaningful words | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/key_words/key_words_README.md) |
-| **GIF Maker** | Converts videos into high-quality GIFs | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/make_gif/make_gif_README.md) |
-| **Video Montage** | Creates video montages from multiple clips | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/montage/montage_README.md) |
-| **MOV to MP4** | Converts MOV files to MP4 format | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/Mov_to_Mp4/mov_to_mp4_README.md) |
-| **Audio Extractor** | Extracts audio from video files as MP3 | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/mp3/mp3_README.md) |
-| **Video Shortener** | Creates new videos from selected portions | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/shorten/shorten_README.md) |
-| **Video Splitter** | Generates multiple clips from a single video | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/splitter/splitter_README.md) |
-| **Stacked Layout** | Combines speaker footage and slide content | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/stacked/stacked_README.md) |
-| **SRT Transcriber** | Generates SRT transcription from Mp3 | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/transcribe/transcribeSRT_README.md) |
-| **TXT Transcriber** | Generates TXT transcription from Mp3 | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/transcribe/transcribeTXT_README.md) |
-| **Video Trimmer** | Trims videos to specific durations | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/trimmer/trimmer_README.md) |
-| **Video Upscaler** | Upscales videos to higher resolutions | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/upscale/upscale_README.md) |
+I regularly speak at conferences, webinars, meetups, and community events on AI, observability, OpenTelemetry, DevOps, cloud migration, and developer experience.
 
-</details>
 
-## 🔬 Generative AI Notebooks
+| Date                 | Event                      | Topic                                                          | Resources                                                                  |
+| -------------------- | -------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Dec 1, 2025, 3:00 PM | AWS re:Invent              | How A+E Global Media Manages Storage Sprawl and Optimizes Cost | [Register](https://registration.awsevents.com/register)                    |
+| May 16, 2025         | Microsoft Build 2025       | Cloud Migration Unlocked                                       | [Materials](https://github.com/jasonhand/ms_build_migration_unlocked)      |
+| Mar 8, 2025          | SCaLE 22x                  | Modernizing Systems Observability with AI and LLMs             | [Materials](https://github.com/jasonhand/scale22x)                         |
+| Jan 23, 2025         | Webinar                    | Monitoring Vertex AI w/ Gemini LLMs                            | [Materials](https://github.com/jasonhand/monitoring_vertex_ai_LLMs)        |
+| Nov 21, 2024         | AI Native DevCon           | Modernizing Systems Observability with AI and LLMs             | [Materials](https://github.com/jasonhand/ai_native_dev_con)                |
+| Nov 17, 2024         | .NET Conf                  | Getting Started with OpenTelemetry in .NET                     | [Materials](https://github.com/jasonhand/DotNetConf24)                     |
+| Sep 24, 2024         | Azure Observability Summit | Various Sessions                                               | [Materials](https://github.com/jasonhand/Azure_Observability_Summit_2024)  |
+| Sep 16, 2024         | Conference                 | Charting the DevOps Multiverse                                 | [Materials](https://github.com/jasonhand/charting_the_devops_multiverse)   |
+| Aug 15, 2024         | Webinar                    | Azure Cloud Migration Strategies                               | [Materials](https://github.com/jasonhand/azure_cloud_migration_strategies) |
 
-My collection of Jupyter notebooks for various AI use cases:
 
-| Notebook | Description | Link |
-|----------|-------------|------|
-| NASA Short Stories | Using AI to generate NASA-themed stories | [Notebook](https://github.com/jasonhand/notebooks/blob/main/nasa-short-stories.ipynb) |
-| Market Summary | AI-powered financial market analysis | [Notebook](https://github.com/jasonhand/notebooks/blob/main/market-summary.ipynb) |
-| Restaurant Reviews | Processing and analyzing restaurant feedback | [Notebook](https://github.com/jasonhand/notebooks/blob/main/restaurant-reviews.ipynb) |
-| Datadog Custom Logs & Metrics | Working with Datadog logging and metrics | [Notebook](https://github.com/jasonhand/notebooks/blob/main/datadog-custom-logs.ipynb) |
-| Grocery Store Receipt Analysis | Analyzing grocery receipts with AI | [Notebook](https://github.com/jasonhand/notebooks/blob/main/grocery-receipt-analysis.ipynb) |
 
-## 🔧 My Workstation Setup
 
-Curious about my tech? Check out all of the [equipment I use](workstation/README.md) for my content creation and development setup.
+### Upcoming: AWS re:Invent
 
-## 📊 Project Statistics
+**How A+E Global Media Manages Storage Sprawl and Optimizes Cost**  
+December 1, 2025 at 3:00 PM • Level 200 – Intermediate • Walk-up only
 
-- **Total Public Projects**: 25+
-- **Primary Languages**: TypeScript, Python, JavaScript, HTML/CSS
-- **Frameworks**: React, Astro, Vue, Next.js
-- **Focus Areas**: AI/ML, Web Development, Data Visualization, Creative Applications
-- **Live Demos**: 10+ deployed applications
+As data-intensive and AI workloads drive continued growth in cloud infrastructure and storage, the complexity of understanding usage, ownership, and cost is increasing. In this session, we'll walk through how A+E Global Media gained visibility into the drivers behind rising S3 spend, connected costs to application owners, and established stronger FinOps governance. Attendees will walk away with best practices for architecting cost-efficient systems with Datadog by identifying inefficiencies and connecting cost, storage, and operational context to drive continuous optimization.
+
+This presentation is brought to you by Datadog, an AWS Partner.
+
+- **Features:** AWS Partners, Lecture-style
+- **Topic:** Cloud Operations, Storage
+- **Area of Interest:** Cost Optimization
+- **Role:** Solution / Systems Architect
+
+For bio, headshots, abstracts, and speaking details, visit my [speaker profile](https://github.com/jasonhand/speaker).
+
+## ✨ Vibes
+
+A collection of apps, demos, experiments, visualizations, utilities, workshops, notebooks, and other creative builds.
+
+### Omarchy Plugins
+
+| Plugin | Description | Links |
+|--------|-------------|-------|
+| **Datadog Lapdog for Omarchy** | Omarchy plugin for working with Datadog Lapdog from the desktop. | [Code](https://github.com/jasonhand/omarchy_datadog_lapdog) |
+| **Datadog Updog for Omarchy** | Omarchy plugin for working with Datadog Updog from the desktop. | [Code](https://github.com/jasonhand/omarchy_datadog_updog) |
+| **Datadog Feed for Omarchy** | Omarchy plugin for surfacing Datadog feed-related workflows in Omarchy. | [Code](https://github.com/jasonhand/omarchy_datadog_feed) |
+
+### AI & Machine Learning
+
+
+| Project                     | Description                                                                                                                                             | Links                                                     |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+|                             |                                                                                                                                                         |                                                           |
+| **Generative AI Notebooks** | Jupyter notebooks demonstrating generative AI use cases including NASA stories, market analysis, restaurant reviews, and Datadog logs/metrics examples. | [Code](https://github.com/jasonhand/notebooks)            |
+| **GenAI Astro Workshop**    | Workshop materials for building modern websites with Astro and AI.                                                                                      | [Code](https://github.com/jasonhand/GenAI-Astro-Workshop) |
+
+
+
+
+### Creative & Visual Applications
+
+
+| Project                   | Description                                                                                                  | Links                                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| **Toroidal Fields**       | Interactive visualization demonstrating wave interference patterns, cymatics, and energy-to-matter concepts. | [Code](https://github.com/jasonhand/toroidal_fields) • [Live Demo](https://jasonhand.github.io/toroidal_fields) |
+| **Vinyl Viewer**          | Interactive vinyl record collection browser with Spotify integration for listening to clips.                 | [Code](https://github.com/jasonhand/vinyl-viewer) • [Live Demo](https://jasonhand.github.io/vinyl-viewer/)      |
+| **Ambient Weather Art**   | Artistic weather visualization combining real-time weather data with generative art.                         | [Code](https://github.com/jasonhand/ambient_weather_art)                                                        |
+| **Lissajous Curves Demo** | Interactive mathematical visualization demonstrating Lissajous curves with customizable parameters.          | [Code](https://github.com/jasonhand/Lissajous-Demo)                                                             |
+
+
+
+
+### Productivity, Utilities & Demo Apps
+
+
+| Project                       | Description                                                                    | Links                                                                                                                |
+| ----------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| **SeeYouThere**               | Event management and scheduling application for coordinating group activities. | [Code](https://github.com/jasonhand/seeyouthere)                                                                     |
+| **Color-Coded Budget Buddy**  | Visual budget tracking application with color-coded expense categorization.    | [Code](https://github.com/jasonhand/color-coded-budget-buddy)                                                        |
+| **Smart Pad Dashboard**       | Personal dashboard for managing tasks, notes, and productivity metrics.        | [Code](https://github.com/jasonhand/smart-pad-dashboard)                                                             |
+| **Markdown Viewer**           | Markdown editor and viewer with live preview and presentation mode.            | [Code](https://github.com/jasonhand/markdown_viewer)                                                                 |
+| **JavaScript Ignite Karaoke** | Interactive presentation game for rapid-fire talks with random image prompts.  | [Code](https://github.com/jasonhand/js-ignite-karaoke) • [Live Demo](https://jasonhand.github.io/js-ignite-karaoke/) |
+| **PsPsPs Pet Finder**         | Pet discovery app using the Petfinder API.                                     | [Code](https://github.com/jasonhand/pspsps)                                                                          |
+| **Vintage Videos**            | Retro-styled video collection browser.                                         | [Code](https://github.com/jasonhand/vintage-videos)                                                                  |
+| **Ambient Weather Dashboard** | Real-time weather monitoring dashboard with customizable widgets and alerts.   | [Code](https://github.com/jasonhand/ambient-weather)                                                                 |
+| **Spr1nklr**                  | React and TypeScript web application for data visualization.                   | [Code](https://github.com/jasonhand/spr1nklr)                                                                        |
+| **Personal Website**          | My personal website built with modern web technologies.                        | [Code](https://github.com/jasonhand/personalweb)                                                                     |
+| **DevOps Certification**      | Resources and materials for DevOps certification preparation.                  | [Code](https://github.com/jasonhand/devops_certified)                                                                |
+
+
+
+
+### Video Tools
+
+My [Video Tools project](https://github.com/jasonhand/video_tools) includes specialized utilities for video/audio processing.
+
+Click to expand the tool list
+
+
+| Tool                   | Description                                        | Documentation                                                                                                 |
+| ---------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **2xSpeed**            | Accelerates the playback speed of video files.     | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/2xSpeed/2xSpeed_README.md)                 |
+| **Apple Audio to MP3** | Converts M4A audio files to MP3 format.            | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/apple-to-mp3/convert_m4a_to_mp3_README.md) |
+| **Black Bars Removal** | Removes black bars from videos.                    | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/black_bars/black_bars_README.md)           |
+| **Logo Burn**          | Adds logos or watermarks to videos.                | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/burn_logo/burn_logo_README.md)             |
+| **Caption Burn**       | Burns subtitles from SRT files into videos.        | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/captions/captions_README.md)               |
+| **Text Chunker**       | Chunks large text files into smaller sections.     | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/chunk/chunk_README.md)                     |
+| **Video Clipper**      | Trims the start of videos and enhances quality.    | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/clip/clip_README.md)                       |
+| **Video Cropper**      | Automates cropping videos to portrait orientation. | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/clip/clip_README.md)                       |
+| **Keyword Extractor**  | Analyzes text files to identify meaningful words.  | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/key_words/key_words_README.md)             |
+| **GIF Maker**          | Converts videos into high-quality GIFs.            | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/make_gif/make_gif_README.md)               |
+| **Video Montage**      | Creates video montages from multiple clips.        | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/montage/montage_README.md)                 |
+| **MOV to MP4**         | Converts MOV files to MP4 format.                  | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/Mov_to_Mp4/mov_to_mp4_README.md)           |
+| **Audio Extractor**    | Extracts audio from video files as MP3.            | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/mp3/mp3_README.md)                         |
+| **Video Shortener**    | Creates new videos from selected portions.         | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/shorten/shorten_README.md)                 |
+| **Video Splitter**     | Generates multiple clips from a single video.      | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/splitter/splitter_README.md)               |
+| **Stacked Layout**     | Combines speaker footage and slide content.        | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/stacked/stacked_README.md)                 |
+| **SRT Transcriber**    | Generates SRT transcription from MP3.              | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/transcribe/transcribeSRT_README.md)        |
+| **TXT Transcriber**    | Generates TXT transcription from MP3.              | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/transcribe/transcribeTXT_README.md)        |
+| **Video Trimmer**      | Trims videos to specific durations.                | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/trimmer/trimmer_README.md)                 |
+| **Video Upscaler**     | Upscales videos to higher resolutions.             | [Docs](https://github.com/jasonhand/video_tools/blob/main/services/upscale/upscale_README.md)                 |
+
+
+
+
+### Notebooks
+
+
+| Notebook                       | Description                                   | Link                                                                                        |
+| ------------------------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| NASA Short Stories             | Using AI to generate NASA-themed stories.     | [Notebook](https://github.com/jasonhand/notebooks/blob/main/nasa-short-stories.ipynb)       |
+| Market Summary                 | AI-powered financial market analysis.         | [Notebook](https://github.com/jasonhand/notebooks/blob/main/market-summary.ipynb)           |
+| Restaurant Reviews             | Processing and analyzing restaurant feedback. | [Notebook](https://github.com/jasonhand/notebooks/blob/main/restaurant-reviews.ipynb)       |
+| Datadog Custom Logs & Metrics  | Working with Datadog logging and metrics.     | [Notebook](https://github.com/jasonhand/notebooks/blob/main/datadog-custom-logs.ipynb)      |
+| Grocery Store Receipt Analysis | Analyzing grocery receipts with AI.           | [Notebook](https://github.com/jasonhand/notebooks/blob/main/grocery-receipt-analysis.ipynb) |
+
+
+
+
+### Workstation & Setup
+
+
+| Resource              | Description                                                      | Links                                       |
+| --------------------- | ---------------------------------------------------------------- | ------------------------------------------- |
+| **Workstation Setup** | The equipment I use for content creation and development.        | [Details](workstation/README.md)            |
+| **Studio Setup**      | Documentation of my content creation studio setup and equipment. | [Code](https://github.com/jasonhand/studio) |
+
+
+
 
 ## 🤝 Let's Connect
 
@@ -148,4 +214,4 @@ Curious about my tech? Check out all of the [equipment I use](workstation/README
 
 ---
 
-*"Building tools that solve real problems, one commit at a time."*
+*Building tools that solve real problems, one commit at a time.*
